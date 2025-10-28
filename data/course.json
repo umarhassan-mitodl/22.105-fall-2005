@@ -1,0 +1,53 @@
+{
+  "term": "Fall",
+  "year": "2005",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Physics",
+      "Electromagnetism"
+    ],
+    [
+      "Engineering",
+      "Nuclear Engineering"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Nuclear Physics"
+    ]
+  ],
+  "legacy_uid": "2aaae096-3e72-222f-28dd-b25efa14e59b",
+  "instructors": {
+    "content": [
+      "d1cd8edc-f7fd-5e91-5f5c-f79e9f8275c6"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "dfaf8ba6-d6f9-32d4-bf47-50a02ca82680",
+    "website": "22-105-electromagnetic-interactions-fall-2005"
+  },
+  "course_title": "Electromagnetic Interactions",
+  "course_description": "This course is a graduate level subject on electromagnetic theory with particular emphasis on basics and applications to Nuclear Science and Engineering. The basic topics covered include electrostatics, magnetostatics, and electromagnetic radiation. The applications include transmission lines, waveguides, antennas, scattering, shielding, charged particle collisions, Bremsstrahlung radiation, and Cerenkov radiation.\n\nAcknowledgments\n---------------\n\nProfessor Freidberg would like to acknowledge the immense contributions made to this course by its previous instructors, Ian Hutchinson and Ron Parker.\n",
+  "department_numbers": [
+    "22"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "22.105",
+  "course_image_thumbnail": {
+    "content": "22003605-dc23-c82e-1af6-3e26cb7b990e",
+    "website": "22-105-electromagnetic-interactions-fall-2005"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Problem Sets"
+  ],
+  "site_uid": "b5973fd1-16e6-4685-8ec3-217b9f832cb1",
+  "site_short_id": "22.105-fall-2005",
+  "site_url_path": "courses/22-105-electromagnetic-interactions-fall-2005",
+  "title": "Course Metadata"
+}
